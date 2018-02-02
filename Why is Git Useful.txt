@@ -1,0 +1,2 @@
+git can be useful such as it lets multiple people work on the same
+project or one person work on a project from mutliple different computers.
